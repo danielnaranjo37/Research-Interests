@@ -1,0 +1,89 @@
+# Proteomics
+
+August 22nd, 2022
+
+Proteins are the bread and butter of my interest in biology: in some ways, my neuroscience degree was just a chance to glimpse into the molecular world. Videos of kinesins walking were what made me realize that proteins were alive, in some strange sense of that word. 
+As I've been unemployed recently, following my first venture into analytical chemistry, I've spent a lot of time reading, learning about the study of proteins and their interactions. 
+
+To whatever extent I get a choice in the matter, I'd like to dedicate myself to their study, in whatever shape that might take. 
+
+Special thanks to the various video lecture series available on YouTube by Rod Chalk, Alan Doucette, and Matthew Padula for giving me the introductions to proteomics and mass spectrometry that I'd been looking for. 
+-     Matthew Padula: https://www.youtube.com/c/MatthewPadula/videos
+-     Alan Doucette: https://www.youtube.com/channel/UCBwia-lwe5JdZ50rTgTMcaQ/videos
+-     Rod Chalk: https://www.youtube.com/channel/UCHXV1LgxT2QogXmyCRNmT-g/videos 
+
+# Chromatography
+
+All analytical techniques seem to stem back to chromatography, so I'll begin this section by saying that I genuinely knew nothing about the use for HPLC's until I took my first job in biotech, not too long ago. 
+That being said, I've learned that it likely is the most important step in any analysis, be it from purifying the proteins we study down to simply achieving separations to isolate an analyte of interest. For this section, I'll focus on listing key principles of the most applicable techniques for proteomics and citing sources for future reading, as I'll likely dedicate another page to this field. 
+
+## Reverse-Phase
+- Hydrophobic interactions with stationary phase drive retention times. Elution driven by increasing organic content in a mobile phase. 
+- Ideal for peptides such as with a short C3 or C4 column, but also has many applications for intact proteins using C18 columns. Also great for LC/MS given a volatile ion-pair reagent such as 0.1% formic acid. 
+- Use of organic solvents, especially MeOH, ACN and formic acid leads to denaturation. No applicability to native-state LC/MS
+
+
+## Size Exclusion 
+- 
+
+## Ion Exchange
+- Separation is driven by pH and the isoelectric point of an analyte. 
+- Charge of the zwitterionic protein is decided by pH. Therefore there are two flavors, Anion and Cation exchange (AEX and CEX respectively). Both deserve longer sections in my chromatography page, but I'll keep it brief. 
+- Ideal for separations of proteins based on charge differences, especially small differences that are themselves critical quality attributes. Possible applications include separation of full/empty viral capsids, or of proteins with post-translational modifications that impact charge like methionine oxidation, asparagine deamidation or phosphorylation. 
+
+
+
+# Mass Spectrometry 
+- Measurement of the mass/charge ratio of analytes. For proteins and peptides, this is deceptively simple: 
+
+# Bottom-up Proteomics 
+
+## Sample prep 
+
+## Chromatography
+
+## De-novo sequencing 
+
+## Localization of modifications
+
+
+# Top-down (Denatured) Proteomics
+
+## Sample prep
+
+## Identification of modifications
+
+
+# Native Mass Spectrometry
+
+# Protein Characterization for Biosimilars
+Biosimilars are an interesting problem to me, because biosimilar regulations put more responsibility in the analytic/CMC of candidate drugs much more than with typical IND/NDA candidates. Demonstrating similarity among many critical quality attributes, some of which are completely uncontrollable, is the key in their approval. 
+Here, I'll list out specific quality attributes and methods available to study them. 
+
+## Primary Structure 
+
+## Post-translational modifications (not including glycosylation)
+
+### Bottom-up mass spectrometry 
+
+### Intact, denatured mass spectrometry
+
+
+## Glycosylation
+
+### Capillary electrophoresis
+### HILIC
+### HIC
+
+## Secondary structure 
+
+### Circular dichroism
+
+## Tertiary structure
+### 2D NMR
+
+## Quaternary structure
+
+### Intact, denatured mass spectrometry
+
+### Native-state mass spectrometry 
